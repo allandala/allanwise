@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @allanwise
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning kotlin
-
-<!---
-allanwise/allanwise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/allandala">
+  <img src="https://github-readme-stats.vercel.app/api?username=allandala&show_icons=true&theme=midnight-blue&count_private=true" />
+  <br/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandala&layout=compact&langs_count=99&theme=midnight-blue" />
+    </br>
+</a>
+</div>
